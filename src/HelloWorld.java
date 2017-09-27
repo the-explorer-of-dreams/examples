@@ -8,6 +8,7 @@ public class HelloWorld {
     String name;
     String code;
 
+
     public static void main(String[] args){
         HelloWorld helloWorld =  new HelloWorld();
         helloWorld.itemId = "001";

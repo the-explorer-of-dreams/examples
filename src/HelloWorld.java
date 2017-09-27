@@ -25,6 +25,7 @@ public class HelloWorld {
         }
 
         System.out.println("itemId="+helloWorld.itemId+",code="+helloWorld.code+",name="+helloWorld.name);
+        System.out.println("20170927 idea commit");
 
     }
 
